@@ -1,0 +1,18 @@
+[submodule "lab1-datalab-RyanKerwick"]
+	path = lab1-datalab-RyanKerwick
+	url = https://github.com/cu-csci-2400-fall-2024/lab1-datalab-RyanKerwick.git
+[submodule "lab2-bomblab-RyanKerwick"]
+	path = lab2-bomblab-RyanKerwick
+	url = https://github.com/cu-csci-2400-fall-2024/lab2-bomblab-RyanKerwick.git
+[submodule "lab3-attacklab-RyanKerwick"]
+	path = lab3-attacklab-RyanKerwick
+	url = https://github.com/cu-csci-2400-fall-2024/lab3-attacklab-RyanKerwick.git
+[submodule "lab4-perflab-RyanKerwick"]
+	path = lab4-perflab-RyanKerwick
+	url = https://github.com/cu-csci-2400-fall-2024/lab4-perflab-RyanKerwick.git
+[submodule "lab5-shelllab-RyanKerwick"]
+	path = lab5-shelllab-RyanKerwick
+	url = https://github.com/cu-csci-2400-fall-2024/lab5-shelllab-RyanKerwick.git
+[submodule "lab6-malloclab-RyanKerwick"]
+	path = lab6-malloclab-RyanKerwick
+	url = https://github.com/cu-csci-2400-fall-2024/lab6-malloclab-RyanKerwick.git
